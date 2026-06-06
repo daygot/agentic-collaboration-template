@@ -1,31 +1,32 @@
 # Current Project State
 
-Last updated: 2026-06-06
+Last updated: YYYY-MM-DD
 
 ## Active Goals
 
-- Establish the project collaboration and agent-context structure.
+- TBD
 
 ## Active Work
 
 | Task | Owner | Branch | Status | Last Update |
 |---|---|---|---|---|
-| Agent collaboration scaffold | unassigned | TBD | in setup | 2026-06-06 |
+| TBD | unassigned | TBD | not started | TBD |
 
 ## Blockers
 
-- Git remote/push target needs to be confirmed if not already configured.
+- None yet.
 
 ## Recently Completed
 
-- Initial agent collaboration structure created.
+- None yet.
 
 ## Next Recommended Actions
 
 1. Fill in `context/PROJECT.md` with the actual project purpose and goals.
 2. Create the first concrete task brief in `tasks/backlog/`.
 3. Decide agent identities and update `agents/registry.md`.
-4. Configure the git remote if needed.
+4. Choose the initial technical stack and update `context/ARCHITECTURE.md`.
+5. Define initial design direction in `context/DESIGN.md`.
 
 ## Notes for Agents
 

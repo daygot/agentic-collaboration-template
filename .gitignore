@@ -1,0 +1,20 @@
+# Local / agent scratch
+.agent-local/
+*.tmp
+*.log
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Dependencies/build outputs; adjust once stack is chosen
+node_modules/
+dist/
+build/
+.coverage/
+.pytest_cache/
+__pycache__/
+.env
+.env.*
+!.env.example
